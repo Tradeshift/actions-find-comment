@@ -31,7 +31,7 @@
   "homepage": "https://github.com/peter-evans/find-comment#readme",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@actions/github": "^6.0.1"
+    "@actions/github": "^7.0.0"
   },
   "devDependencies": {
     "@types/jest": "^27.0.3",
