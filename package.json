@@ -5,7 +5,7 @@
   "description": "Find an issue or pull request comment",
   "main": "lib/main.js",
   "engines": {
-    "node": ">=24.4.0"
+    "node": ">=24.9.0"
   },
   "scripts": {
     "build": "tsc && ncc build",
